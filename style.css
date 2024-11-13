@@ -1,0 +1,128 @@
+.body{
+    background-image: url('https://media.tenor.com/TZaIBNauQfAAAAAM/stars-galaxy.gif');
+}
+
+.titulo1{
+  color: lightgray;
+  font-size: 40px;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: white;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  border-width: 3px;
+  border-style: solid;
+  border-color: grey;
+  position: relative;
+  left: 48px;
+  font-style: italic;
+  letter-spacing: 3px;
+}
+
+.texto1{
+  color: lightgray;
+  font-size: 20px;
+  text-shadow: 1px 1px 0 gray;
+  font-style: italic;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  position: relative;
+  right: 35px;
+}
+
+.texto2{
+  color: darkred;
+  font-size: 30px;
+  text-shadow: 1px 1px 0 gray;
+  font-style: italic;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  position: relative;
+  right: 35px;
+}
+
+.linha1{
+  border: none;
+  height: 1px;
+  background-color: grey;
+  box-shadow: 1px 1px 0 white;
+  margin: 20px 0;
+}
+
+.detalhes{
+  color: lightgrey;
+  font-size: 30px;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  border-width: 3px;
+  border-style: solid;
+  border-color: gray;
+}
+
+.html{
+  color: lightgrey;
+  font-size: 30px;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  border-width: 3px;
+  border-style: solid;
+  border-color: gray;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+
+.icon1{
+  color: lightgray;
+  font-size: 16px;
+  font-style: italic;
+  position: relative;
+  top: 1px;
+  left: 18px;
+}
+
+.tags{
+  color: orange;
+  font-size: 30px;
+  text-shadow: 1px 1px 0 gray;
+  font-style: italic;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  position: relative;
+  right: 35px;
+}
+
+.texto3{
+  color: gray;
+  font-size: 20px;
+  text-shadow: 1px 1px 0 gray;
+  font-style: italic;
+}
+
+.button{
+  background-color: #404040AB;
+    color: red;
+    border: 10px;
+    padding: 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: lightgray;
+}
